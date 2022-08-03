@@ -71,3 +71,10 @@ The week fares for data pulled from 01-01-2019 to 04-28-2019 is shown in the lin
 2. The Suburban cities have a substantial amount of PyBer users and total fares, however, Urban cities have a significantly higher usage of PyBer services. It may be useful to further analyze the decrease of PyBer usage in Suburban areas.
 
 3. The Urban cities total rides, total drivers, and total fares are significantly higher than the Rural and Suburban cities. It would be beneficial for PyBer business to recognize the high usage of PyBer in this area and offer promotional periods at higher demand times, possibly holidays.
+
+## Questions
+
+* You can contact me via email or GitHub!
+
+    * Email: emilyporter920@gmail.com
+    * GitHub Profile: Emily Porter || github.com/emilyporter920 
